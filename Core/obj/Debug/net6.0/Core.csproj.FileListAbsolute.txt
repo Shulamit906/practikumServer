@@ -34,3 +34,4 @@ C:\Users\hitmachut\Desktop\‏‏תיקיה חדשה\serverPraktykum\Core\obj\De
 C:\Users\hitmachut\Desktop\‏‏תיקיה חדשה\serverPraktykum\Core\obj\Debug\net6.0\refint\Core.dll
 C:\Users\hitmachut\Desktop\‏‏תיקיה חדשה\serverPraktykum\Core\obj\Debug\net6.0\Core.pdb
 C:\Users\hitmachut\Desktop\‏‏תיקיה חדשה\serverPraktykum\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\hitmachut\Desktop\‏‏תיקיה חדשה\serverPraktykum\Core\obj\Debug\net6.0\Core.sourcelink.json

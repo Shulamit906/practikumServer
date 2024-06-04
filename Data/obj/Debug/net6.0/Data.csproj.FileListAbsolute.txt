@@ -49,3 +49,4 @@ C:\Users\hitmachut\Desktop\‏‏תיקיה חדשה\serverPraktykum\Data\obj\De
 C:\Users\hitmachut\Desktop\‏‏תיקיה חדשה\serverPraktykum\Data\obj\Debug\net6.0\Data.pdb
 C:\Users\hitmachut\Desktop\‏‏תיקיה חדשה\serverPraktykum\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
 C:\Users\hitmachut\Desktop\‏‏תיקיה חדשה\serverPraktykum\Data\obj\Debug\net6.0\ref\Data.dll
+C:\Users\hitmachut\Desktop\‏‏תיקיה חדשה\serverPraktykum\Data\obj\Debug\net6.0\Data.sourcelink.json

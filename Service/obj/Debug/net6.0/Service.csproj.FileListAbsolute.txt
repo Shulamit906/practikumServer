@@ -43,3 +43,4 @@ C:\Users\hitmachut\Desktop\‏‏תיקיה חדשה\serverPraktykum\Service\obj
 C:\Users\hitmachut\Desktop\‏‏תיקיה חדשה\serverPraktykum\Service\obj\Debug\net6.0\refint\Service.dll
 C:\Users\hitmachut\Desktop\‏‏תיקיה חדשה\serverPraktykum\Service\obj\Debug\net6.0\Service.pdb
 C:\Users\hitmachut\Desktop\‏‏תיקיה חדשה\serverPraktykum\Service\obj\Debug\net6.0\ref\Service.dll
+C:\Users\hitmachut\Desktop\‏‏תיקיה חדשה\serverPraktykum\Service\obj\Debug\net6.0\Service.sourcelink.json
